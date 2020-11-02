@@ -4,7 +4,8 @@ checking, validation, and verification technique for Cyber-Physical Systems (CPS
 is on the optimization of model-based fault-injection using a combination of machine learning and model-based techniques. 
 
 I am currently working on an Reinforcement Learning (RL)-based method to optimize fault-injcention.
-I am currently learning different machine learning approches that can be applied for dependability analysis of CPS.
+I am currently learning different machine learning approches that can be applied on black-box (FMI standard based model) and white-box (Simulink-based model) CPSs for dependability analysis.
+
 ## Research interest
 * Dependability Analysis:
   * Safety Assessment 
