@@ -17,18 +17,6 @@ I am currently learning different machine learning approches that can be applied
 * Embedded System Design and Analysis
 * Electronic Design Automation (ASIC/FPGA)
 
-## Research interest
-* Dependability Analysis:
-  * Validation and Verification
-  * Safety Assessment 
-  * Fault-Injection
-  * Hazard Analysis
-* Model-Based System Engineering
-* Machine Learning  
-* Image Processing
-* Embedded System Design and Analysis
-* Electronic Design Automation (ASIC/FPGA)
-
 <!--
 **mehrdad-moradi/mehrdad-moradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
