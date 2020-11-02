@@ -7,10 +7,10 @@ I am currently working on an Reinforcement Learning (RL)-based method to optimiz
 I am currently learning different machine learning approches that can be applied for dependability analysis of CPS.
 ## Research interest
 * Dependability Analysis:
-  * Validation and Verification
   * Safety Assessment 
   * Fault-Injection
   * Hazard Analysis
+  * Validation and Verification
 * Model-Based System Engineering
 * Machine Learning  
 * Image Processing
