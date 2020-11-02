@@ -16,7 +16,7 @@ I am currently learning different machine learning approches that can be applied
 * Machine Learning  
 * Embedded System Design and Analysis
 * Electronic Design Automation (ASIC/FPGA)
-*Image Processing
+* Image Processing
 
 <!--
 **mehrdad-moradi/mehrdad-moradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
