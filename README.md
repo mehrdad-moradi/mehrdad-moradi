@@ -1,5 +1,5 @@
 ## Welcome to my page👋
-I am a PhD student at the University of Antwerp, Belgium. My research is concerned with dependability analysis, robustness 
+I received my PhD from the University of Antwerp, Belgium. My research is concerned with dependability analysis, robustness 
 checking, validation, and verification technique for Cyber-Physical Systems (CPS) using model-based fault-injection. My main focus 
 is on the optimization of model-based fault-injection using a combination of machine learning and model-based techniques. 
 
